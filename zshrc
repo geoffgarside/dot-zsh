@@ -6,7 +6,8 @@ source ~/.zsh/ruby.zsh
 source ~/.zsh/golang.zsh
 source ~/.zsh/terminal.zsh
 source ~/.zsh/prompt.zsh
-#source ~/.zsh/completion.zsh
+source ~/.zsh/completion.zsh
+source ~/.zsh/git-flow-completion.zsh
 source ~/.zsh/aliases.zsh
 source ~/.zsh/bindkeys.zsh
 #source ~/.zsh/functions.zsh
