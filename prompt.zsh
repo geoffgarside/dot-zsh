@@ -83,4 +83,4 @@ PROMPT='${PR_GREEN}$(box_name)%{$reset_color%}%{$FG[239]%}:%{$reset_color%}${PR_
 
 export SPROMPT="Correct $fg[red]%R$reset_color to $fg[green]%r$reset_color [(y)es (n)o (a)bort (e)dit]? "
 
-RPROMPT='${PR_RED}$(golang_gliding)%{$reset_color%}${PR_RED}${ruby_version}%{$reset_color%} ${PR_BLUE}%T%{$reset_color%}'
+RPROMPT='${PR_RED}${ruby_version}%{$reset_color%} ${PR_BLUE}%T%{$reset_color%}'
