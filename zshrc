@@ -15,6 +15,7 @@ source ~/.zsh/macosx.zsh
 source ~/.zsh/vagrant.zsh
 source ~/.zsh/metasploit.zsh
 source ~/.zsh/hashcat.zsh
+source ~/.zsh/gpg.zsh
 
 # ### Added by the Heroku Toolbelt
 # export PATH="/usr/local/heroku/bin:$PATH"
